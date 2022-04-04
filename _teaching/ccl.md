@@ -4,7 +4,7 @@ collection: teaching
 type: "Undergraduate course"
 permalink: /teaching/2014-spring-teaching-1
 venue: "New England Chapter"
-date: 2019 Onwards
+date: 2019-05-06
 location: "Hartford, Conneticut"
 ---
 
