@@ -2,7 +2,7 @@
 title: "Towards Identifying Design Paradigms for Describing Indoor Floor Maps to Individuals with Visual Impairment."
 collection: Workshop Paper
 permalink: /publication/2015-10-01-paper-title-number-8
-excerpt: 'This paper is about the number 3. The number 4 is left for future work.'
+excerpt: 'This paper is about a case study that lead to designing '
 date: 2016-06-19
 venue: 'CHI'
 paperurl: 'http://academicpages.github.io/files/paper3.pdf'
