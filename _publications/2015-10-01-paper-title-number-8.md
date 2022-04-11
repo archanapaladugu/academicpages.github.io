@@ -2,11 +2,11 @@
 title: "Towards Identifying Design Paradigms for Describing Indoor Floor Maps to Individuals with Visual Impairment."
 collection: Workshop Paper
 permalink: /publication/2015-10-01-paper-title-number-8
-excerpt: 'This paper is about a case study that lead to designing '
+excerpt: 'This paper is about a case study that lead to learning salient differences in understanding nagivation when you have a visual impairment.'
 date: 2016-06-19
 venue: 'CHI'
-paperurl: 'http://academicpages.github.io/files/paper3.pdf'
-citation: 'Your Name, You. (2015). &quot;Paper Title Number 3.&quot; <i>Journal 1</i>. 1(3).'
+paperurl: 'http://academicpages.github.io/files/methodStudy_Chi.pdf'
+citation: 
 ---
 Navigation, an essential facet of everyday life, is one of the big challenges faced by individuals with visual impairment. In-spite of the presence of aids like canes, seeing-eye dogs and GPS devices, they still face considerable difficulty in
 everyday navigation. While navigating indoors is relatively
@@ -27,6 +27,5 @@ impaired people. Feedback obtained from the participants in
 our experiments suggests that this case study is indeed an
 effective approach for developing such a system.
 
-[Download paper here](http://academicpages.github.io/files/paper3.pdf)
+[Download paper here](http://academicpages.github.io/files/methodStudy_Chi.pdf)
 
-Recommended citation: Your Name, You. (2015). "Paper Title Number 3." <i>Journal 1</i>. 1(3).
