@@ -1,8 +1,8 @@
 ---
 title: "Climate Educator, Citizens Climate Lobby"
 collection: teaching
-type: "Undergraduate course"
-permalink: /teaching/2014-spring-teaching-1
+type: "Talk"
+permalink: /teaching/ccl.md
 venue: "New England Chapter"
 date: 2019-05-06
 location: "Hartford, Conneticut"
